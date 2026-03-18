@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アポフェニア",
+  "base_artist": "黒うさぎ",
+  "createdAt": "2026-03-18T15:31:13.129381Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アポフェニア",
+      "artist": "黒うさぎ",
+      "has_synced": false,
+      "path": "select/pl_01_アポフェニア_黒うさぎ.txt"
+    }
+  ]
+}
